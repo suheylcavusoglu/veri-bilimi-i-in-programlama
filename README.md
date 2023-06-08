@@ -1,1 +1,1 @@
-# veri-bilimi-i-in-programlama
+### Veri Bilimi İçin Programlama dersinde yapılan ödevler yer almaktadır.
